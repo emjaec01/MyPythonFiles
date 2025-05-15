@@ -1,0 +1,5 @@
+192.168.229.11
+enable
+pass
+terminal length 0
+show run
